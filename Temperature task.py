@@ -1,5 +1,6 @@
 print ('This is the temperature converter')
 """
+This was my first trial attempt at the task.
 [formula c/5 = f-32/9][where c = temperature in celsius and f = temperature in fahrenheit]
 c = str(input('Please insert degrees celcius:'))
 f= str(input('Please insert degrees fahrenheit:'))
